@@ -2,8 +2,8 @@
 
 This repository is a feature plugin for loading any Markdown into custom element on Aurelia.
 
-Now we want to create custom component from HTML and turn into any Markdown file into custom element.
-Let’s start by adding a this feature into main.js:
+We want to create custom component from HTML and turn into any Markdown file into custom element.
+Let’s start by adding this feature into main.js:
 
 ``` javascript
 export function configure(aurelia) {
