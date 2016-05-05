@@ -19,8 +19,6 @@ export function configure(aurelia) {
 Now you can use it into View
 ``` html
 <template>
-    <require from="./hello.md"></require>
-
     <input type="text" value.bind="firstName" />
     <input type="text" value.bind="lastName" />
     
